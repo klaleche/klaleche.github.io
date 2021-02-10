@@ -1,0 +1,60 @@
+h1{ 
+color: #fff;
+    background-color: #00FFFF;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+body{
+    margin:3px;
+}
+
+.block{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+
+
+
+.ville1{
+    background-color: #00FF00;
+    border: 1px solid darkgray;
+    width: 400px;
+    margin: 20px 0;
+
+}
+
+
+.ville2{
+    background-color: #FF0000;
+    border: 1px solid darkgray;
+    width: 400px;
+    margin: 20px 0;
+    
+   
+}
+    
+.ville3{
+
+    background-color: #0000FF;
+    border: 1px solid darkgray;
+    width: 400px;
+    margin: 20px 0;
+    
+    
+}
+
+
+
+.source{
+    background-color:darkgrey;
+    align-self: flex-end;
+}
